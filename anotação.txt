@@ -1,0 +1,4 @@
+. comando de repetição: "for"
+. comando atribuição: ":="
+. comando declaração: "var"
+. comando condicional: "if, switch"
