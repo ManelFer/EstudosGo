@@ -1,0 +1,22 @@
+{
+    "Usuarios": [
+        {
+            "Nome" : "Ana Silva",
+            "Tipo" : "leitora",
+            "Idade" : 28,
+            "Sociais" : {
+                "Facebook" : "https://facebook.com/anasilva",
+                "Instagram" : "https://instagram.com/anasilva"
+            }
+        },
+        {
+            "Nome" : "Bruno Costa",
+            "Tipo" : "escritor",
+            "Idade" : 35,
+            "Sociais" : {
+                "Twitter" : "https://twitter.com/brunocosta",
+                "Linkedin" : "https://linkedin.com/in/brunocosta"
+            }
+        }
+    ]
+}
