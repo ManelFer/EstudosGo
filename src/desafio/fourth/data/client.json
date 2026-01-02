@@ -1,0 +1,23 @@
+
+{
+  "clientes": [
+    {
+      "nome": "Maria",
+      "idade": 75,
+      "endereco": {
+        "rua": "Rua das Flores",
+        "numero": 123,
+        "bairro": "Centro"
+      }
+    },
+    {
+      "nome": "João",
+      "idade": 80,
+      "endereco": {
+        "rua": "Avenida Brasil",
+        "numero": 456,
+        "bairro": "Jardim"
+      }
+    }
+  ]
+}
